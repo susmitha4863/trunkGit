@@ -1,7 +1,7 @@
 
 <?php
 
-namespace TestGit;
+namespace susmitha4863/trunkGit;
 
 class TestGit {
 
