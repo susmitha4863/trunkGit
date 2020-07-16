@@ -1,0 +1,12 @@
+{
+    "name": "susmitha4863/trunkgit",
+    "description": "This is tthe sample package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "rsusmitha",
+            "email": "sushisusmitha11@gmail.com"
+        }
+    ],
+    "require": {}
+}
